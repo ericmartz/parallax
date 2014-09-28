@@ -217,6 +217,8 @@ main {
 #slide-4 .bcg {background-image:url('../img/bcg_slide-4.jpg')}
 #slide-4 .hsContent {
 	margin-left: -450px;
+    position: fixed;
+    top: 250px;
 }
 	#slide-4 h2 {
 		background: none;
