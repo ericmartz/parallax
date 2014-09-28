@@ -198,6 +198,10 @@ main {
 	bottom: 200px;
 	top: auto;
 }
+#slide-2 h2 {
+    position: fixed;
+    top: 70%;
+}
 
 /* Slide 3 */
 #slide-3 .bcg {background-image:url('../img/bcg_slide-3.jpg')}
